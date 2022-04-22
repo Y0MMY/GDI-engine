@@ -1,0 +1,3 @@
+C:/Users/Daniil/Desktop/EdngineGDI+/build/CMakeFiles/main.dir
+C:/Users/Daniil/Desktop/EdngineGDI+/build/CMakeFiles/edit_cache.dir
+C:/Users/Daniil/Desktop/EdngineGDI+/build/CMakeFiles/rebuild_cache.dir
