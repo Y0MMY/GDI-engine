@@ -7,7 +7,7 @@ private:
     /* data */
 public:
     DOCKInterface(/* args */) = default;
-    ~DOCKInterface() = default;
+    virtual ~DOCKInterface() = 0;
     virtual uint16_t& getID(void) = 0; //unsigned 16b int (0..65.535)
     virtual bool is_empety(void) const = 0;
 };
