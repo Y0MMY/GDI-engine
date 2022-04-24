@@ -4,7 +4,7 @@
 #include "../../headers/stdafx.h"
 #include "virtualClass.hpp"
 using namespace std;
-class Books: public virtualDOCK
+class Books: public DOCKInterface
 {
 private:
     uint16_t realeseDate;
