@@ -25,7 +25,7 @@ public:
     static int booksCount;
     Books() = default;
     Books(std::string author,std::string name,std::string description,int price, int realeseDate);
-    ~Books();
+    ~Books() override;
     vector<Books> booksVector; 
     // friend std::ostream& operator<< (std::ostream &out, const Books &book);
 };
